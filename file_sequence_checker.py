@@ -2,7 +2,9 @@
 # Get a list of filenames. Extract the numerical sequence, and make sure all
 # the entries are there.
 
-# https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjWzu7Vk4vSAhWHrVQKHeKzAKgQFggcMAA&url=http%3A%2F%2Fstackoverflow.com%2Fquestions%2F3964681%2Ffind-all-files-in-directory-with-extension-txt-in-python&usg=AFQjCNFscnTWu4OERT0WfRkhiNO0WL_zGg&sig2=xKqfQDPS3xj3ozgn5-Prlg
+# Refs:
+# 	Glob: http://stackoverflow.com/a/3964691
+# 	Regex: http://stackoverflow.com/a/4289348
 
 import os
 import glob
